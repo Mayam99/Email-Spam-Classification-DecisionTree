@@ -15,9 +15,13 @@ The goal is to preprocess the data, train a decision tree classifier, and evalua
 Objective
 
 Data Preprocessing: Handle missing values, encode text features, and prepare the data for modeling.
+
 Exploratory Data Analysis (EDA): Examine the distribution of features and their relationships to the target variable.
+
 Model Building: Implement a decision tree classifier to predict spam versus non-spam emails.
+
 Model Evaluation: Assess the classifier’s performance using metrics like accuracy, confusion matrix, and classification report.
+
 Tools and Libraries
 
 We will use the following tools and libraries:
