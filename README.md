@@ -23,8 +23,13 @@ Tools and Libraries
 We will use the following tools and libraries:
 
 Python: Programming language
+
 Pandas: Data manipulation and analysis
+
 NumPy: Numerical computations
+
 Matplotlib/Seaborn: Data visualization
+
 Scikit-learn: Machine learning library for model building and evaluation
+
 Let’s dive into the dataset and start our journey towards building an effective spam classification model!
